@@ -1,0 +1,17 @@
+Untuk administrator
+username : admin
+password : admin123
+
+untuk guru
+username : NIP masing2 guru
+password : password masing2 guru  *bisa dilihat di database table rb_guru
+
+contoh login guru
+username: 195806161984000001
+password: 12177967191
+
+contoh login untuk siswa
+username: 9991268756
+password: 9991268756
+
+=====================
